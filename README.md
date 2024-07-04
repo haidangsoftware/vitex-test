@@ -2,7 +2,7 @@
 ### By Nguyen Hai Dang (Jinner)
 
 **Take note**
-- Có research thuật toán trong quá trình làm để đưa ra kết quả chính xác cuối cùng
+- Có research thuật toán trong quá trình làm để đưa ra kết quả cuối cùng
 
 ### Rút ra sau quá trình làm bài test ###
 **Weakness:**
