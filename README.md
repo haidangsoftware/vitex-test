@@ -1,5 +1,5 @@
-## Vitex test
-### By Nguyen Hai Dang (Jinner)
+## Vitex test online
+__By Nguyen Hai Dang (Jinner)__
 
 **Take note**
 - Có research thuật toán trong quá trình làm để đưa ra kết quả cuối cùng
