@@ -4,6 +4,7 @@
 **Take note**
 - Có research thuật toán trong quá trình làm để đưa ra kết quả cuối cùng
 - Chưa tự xử lý được tất cả các bài toán
+- Tổng thời gian để hoàn thành (làm + reasearch + hiểu thuật toán): 2 tiếng
 
 ### Rút ra sau quá trình làm bài test ###
 **Weakness:**
