@@ -10,6 +10,6 @@
 **Weakness:**
 - Tư duy về cách tự xử lí thuật toán còn hạn chế
   
-**Strength**:
+**Solution**:
 - Biết tìm giải pháp phù hợp cho từng bài toán để đưa ra kết quả cuối cùng
 
